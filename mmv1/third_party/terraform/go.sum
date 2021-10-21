@@ -1432,3 +1432,11 @@ github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-202109
 github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20210929183012-8396494d598c/go.mod h1:oEeBHikdF/NrnUy0ornVaY1OT+jGvTqm+LQS0+ZDKzU=
 github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20210929201636-4f607239a42a h1:Qxf6GAn7dnwHI69E9fWhnVqBng4lpVjAJcLEuf1vffs=
 github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20210929201636-4f607239a42a/go.mod h1:oEeBHikdF/NrnUy0ornVaY1OT+jGvTqm+LQS0+ZDKzU=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211020195356-077101b205ea h1:XjquYMnXrqEdH/VEalqj+2GiGZ8Tzp90himjfSfbZL0=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211020195356-077101b205ea/go.mod h1:oEeBHikdF/NrnUy0ornVaY1OT+jGvTqm+LQS0+ZDKzU=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211021015206-34ab8399a485 h1:kMwBIPZDH3VU1TchV09Wf8d6/TxiyDoqkgpXZQUKO3s=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211021015206-34ab8399a485/go.mod h1:oEeBHikdF/NrnUy0ornVaY1OT+jGvTqm+LQS0+ZDKzU=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211021015206-34ab8399a485 h1:kMwBIPZDH3VU1TchV09Wf8d6/TxiyDoqkgpXZQUKO3s=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211021015206-34ab8399a485/go.mod h1:oEeBHikdF/NrnUy0ornVaY1OT+jGvTqm+LQS0+ZDKzU=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211021035153-ee51cd3567e5 h1:dhdzL+Ot4NpDuTyx/YPSlimpgEPDEtU5Gg7/tVGkjH8=
+github.com/GoogleCloudPlatform/declarative-resource-client-library v0.0.0-20211021035153-ee51cd3567e5/go.mod h1:oEeBHikdF/NrnUy0ornVaY1OT+jGvTqm+LQS0+ZDKzU=
